@@ -202,5 +202,5 @@ to `Notifier` + `NotifierProvider` with `ref.invalidate()`.
 
 ## Contact
 
-Submitted by: YOUR NAME
-Email: YOUR EMAIL
+Submitted by: Prakhar Srivastava
+Email: prakharsrivastava80212@gmail.com
