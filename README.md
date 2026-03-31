@@ -10,7 +10,7 @@ take-home assignment.
 
 - **Track chosen:** Track A — Full-Stack Builder
 - **Stretch goals implemented:** All three
-  - Debounced Autocomplete Search (300ms debounce + text highlight)
+  - Debounced Autocomplete Search (300ms debounce)
   - Recurring Tasks Logic (Daily / Weekly auto-duplication on Done)
   - Persistent Drag-and-Drop Reordering (saved to DB, survives restart)
 
