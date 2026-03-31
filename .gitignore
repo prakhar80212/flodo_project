@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+flodo_backend/env/
+flodo_backend/venv/
+env/
+venv/
+
+# SQLite database (runtime artifact)
+*.db
+*.db-journal
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Flutter build artifacts
+flodo_app/build/
+flodo_app/.dart_tool/
+flodo_app/.flutter-plugins
+flodo_app/.flutter-plugins-dependencies
+flodo_app/android/.gradle/
+flodo_app/android/local.properties
+flodo_app/ios/Flutter/ephemeral/
+flodo_app/macos/Flutter/ephemeral/
+flodo_app/windows/flutter/ephemeral/
+flodo_app/linux/flutter/ephemeral/

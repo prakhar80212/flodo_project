@@ -1,0 +1,17 @@
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# SQLite database (created at runtime)
+*.db
+*.db-journal
+
+# Distribution
+dist/
+build/
+*.egg-info/
